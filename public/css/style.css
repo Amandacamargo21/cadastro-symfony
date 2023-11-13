@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.topo {
+    background-color: rgb(58, 57, 57);
+}
+
+.msgErro {
+    font-size: 25px;
+    color: red;
+}
+
+.msgSucesso {
+    font-size: 25px;
+    color: rgb(26, 255, 0);
+}
